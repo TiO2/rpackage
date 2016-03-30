@@ -1,0 +1,10 @@
+Package: testRpackage
+Version: 0.1
+Date: 3/30/2016
+Title: Pei Ma
+Description: Test R package
+Author: Pei Ma <pema@syr.edu>
+Maintainer: Pei Ma <pema@syr.edu>
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-03-30 12:32:34 UTC; pei
